@@ -1,22 +1,26 @@
-/* 页脚与头图透明 */
+/* 白天模式页脚背景加上几乎透明的黑色 */
 #footer {
-    background: transparent !important;
+    background: rgba(0, 0, 0, 0.3) !important;
+    /* 黑色，透明度 0.05（非常透明） */
 }
 
 #page-header {
-    background: transparent !important;
+    background: rgba(0, 0, 0, 0.07) !important;
+    /* 黑色，透明度 0.05（非常透明） */
 }
 
-/* 白天模式遮罩透明 */
+/* 白天模式遮罩部分加上几乎透明的黑色 */
 #footer::before {
-    background: transparent !important;
+    background: rgba(0, 0, 0, 0.1) !important;
+    /* 黑色，透明度 0.05 */
 }
 
 #page-header::before {
-    background: transparent !important;
+    background: rgba(0, 0, 0, 0.1) !important;
+    /* 黑色，透明度 0.05 */
 }
 
-/* 夜间模式遮罩透明 */
+/* 夜间模式保持透明（保持不变） */
 [data-theme="dark"] #footer::before {
     background: transparent !important;
 }
