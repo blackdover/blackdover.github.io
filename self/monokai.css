@@ -14,17 +14,17 @@ Monokai style - ported by Luigi Maselli - http://grigio.org
 */
 :root {
     --hl-color: #ddd;
-    --hl-bg: #272822;
-    --hltools-bg: #272822;
+    --hl-bg: #1e201a;
+    --hltools-bg: #1e201a;
     --hltools-color: #ddd;
-    --hlnumber-bg: #272822;
+    --hlnumber-bg: #1e201a;
     --hlnumber-color: #ddd;
     /* --hlscrollbar-bg: #d3af86; */
-    --hlexpand-bg: #272822;
+    --hlexpand-bg: #1e201a;
 }
 
 .hljs {
-    background: #272822;
+    background: #1e201a;
     color: #ddd;
 }
 
@@ -56,7 +56,6 @@ Monokai style - ported by Luigi Maselli - http://grigio.org
 .hljs-title,
 .hljs-section,
 .hljs-emphasis,
-.hljs-type,
 .hljs-built_in,
 .hljs-selector-attr,
 .hljs-selector-pseudo,
@@ -66,7 +65,9 @@ Monokai style - ported by Luigi Maselli - http://grigio.org
 .hljs-template-variable {
     color: #a6e22e;
 }
-
+.hljs-type {
+    color:#66d9ef;
+}
 .hljs-title.class_,
 .hljs-class .hljs-title {
     color: white;

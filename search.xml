@@ -35,31 +35,6 @@
     
     
     <entry>
-      <title>牛客寒假笔记1</title>
-      <link href="/2025/01/11/%E7%AC%94%E8%AE%B0/%E7%89%9B%E5%AE%A2%E5%AF%92%E5%81%87%E7%AC%94%E8%AE%B01/"/>
-      <url>/2025/01/11/%E7%AC%94%E8%AE%B0/%E7%89%9B%E5%AE%A2%E5%AF%92%E5%81%87%E7%AC%94%E8%AE%B01/</url>
-      
-        <content type="html"><![CDATA[<h2 id="前情提要"><a href="#前情提要" class="headerlink" title="前情提要"></a>前情提要</h2><p>长时间没有训练加学习，完全生疏，从头开始过一遍入门班</p><h2 id="学习要求"><a href="#学习要求" class="headerlink" title="学习要求"></a>学习要求</h2><h3 id="1-学会写题解"><a href="#1-学会写题解" class="headerlink" title="1.学会写题解"></a>1.学会写题解</h3><p>题解的要求？  </p><ul><li>英文题面，概括题目意思</li><li>题目的主要思路和易错点</li><li>为什么没有写对，回忆一下到底是哪里写错了  </li></ul><p>写点小故事也未尝不可<br>不要求长，要求能看懂</p><h3 id="2-不建议找别人来调自己的代码，锻练不了自己的调试能力"><a href="#2-不建议找别人来调自己的代码，锻练不了自己的调试能力" class="headerlink" title="2.不建议找别人来调自己的代码，锻练不了自己的调试能力"></a>2.不建议找别人来调自己的代码，锻练不了自己的调试能力</h3><p><strong><em>请独立完成编码</em></strong> 不要左边有一个代码，右边对着敲，没有任何用，把窗口关掉，自己独立的写出来，题目是刷不完的，不要拿题量感动自己<br>如果看过别人的代码，请<strong>隔一段时间</strong>再去写，不然细节会想不明白的  </p><h3 id="3-知其然也要知其所以然，请搞懂为什么这么写"><a href="#3-知其然也要知其所以然，请搞懂为什么这么写" class="headerlink" title="3.知其然也要知其所以然，请搞懂为什么这么写"></a>3.知其然也要知其所以然，请搞懂为什么这么写</h3><p>不能只记忆模板，多问为什么<br>自己归纳、发散。<br>别人告诉你的和你自己理解出来的是不一样的</p><h3 id="4-记得复习"><a href="#4-记得复习" class="headerlink" title="4.记得复习"></a>4.记得复习</h3><p>写题解是为了自己复习的。不要追求别人看的怎么怎么样。</p><h2 id="内容"><a href="#内容" class="headerlink" title="内容"></a>内容</h2><p>取模运算实际上时间复杂度不如↓<br><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs c++"><span class="hljs-keyword">while</span>(a&lt;b)a-=b;<br></code></pre></td></tr></table></figure></p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 笔记 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 牛客 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>2025年1月11日</title>
       <link href="/2025/01/11/%E6%97%A5%E8%AE%B0/2025-1-11/"/>
       <url>/2025/01/11/%E6%97%A5%E8%AE%B0/2025-1-11/</url>
@@ -77,6 +52,31 @@
         <tags>
             
             <tag> 日记 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>牛客寒假笔记1</title>
+      <link href="/2025/01/11/%E7%AC%94%E8%AE%B0/%E7%89%9B%E5%AE%A2%E5%AF%92%E5%81%87%E7%AC%94%E8%AE%B01/"/>
+      <url>/2025/01/11/%E7%AC%94%E8%AE%B0/%E7%89%9B%E5%AE%A2%E5%AF%92%E5%81%87%E7%AC%94%E8%AE%B01/</url>
+      
+        <content type="html"><![CDATA[<h2 id="前情提要"><a href="#前情提要" class="headerlink" title="前情提要"></a>前情提要</h2><p>长时间没有训练加学习，完全生疏，从头开始过一遍入门班</p><h2 id="学习要求"><a href="#学习要求" class="headerlink" title="学习要求"></a>学习要求</h2><h3 id="1-学会写题解"><a href="#1-学会写题解" class="headerlink" title="1.学会写题解"></a>1.学会写题解</h3><p>题解的要求？  </p><ul><li>英文题面，概括题目意思</li><li>题目的主要思路和易错点</li><li>为什么没有写对，回忆一下到底是哪里写错了  </li></ul><p>写点小故事也未尝不可<br>不要求长，要求能看懂</p><h3 id="2-不建议找别人来调自己的代码，锻练不了自己的调试能力"><a href="#2-不建议找别人来调自己的代码，锻练不了自己的调试能力" class="headerlink" title="2.不建议找别人来调自己的代码，锻练不了自己的调试能力"></a>2.不建议找别人来调自己的代码，锻练不了自己的调试能力</h3><p><strong><em>请独立完成编码</em></strong> 不要左边有一个代码，右边对着敲，没有任何用，把窗口关掉，自己独立的写出来，题目是刷不完的，不要拿题量感动自己<br>如果看过别人的代码，请<strong>隔一段时间</strong>再去写，不然细节会想不明白的  </p><h3 id="3-知其然也要知其所以然，请搞懂为什么这么写"><a href="#3-知其然也要知其所以然，请搞懂为什么这么写" class="headerlink" title="3.知其然也要知其所以然，请搞懂为什么这么写"></a>3.知其然也要知其所以然，请搞懂为什么这么写</h3><p>不能只记忆模板，多问为什么<br>自己归纳、发散。<br>别人告诉你的和你自己理解出来的是不一样的</p><h3 id="4-记得复习"><a href="#4-记得复习" class="headerlink" title="4.记得复习"></a>4.记得复习</h3><p>写题解是为了自己复习的。不要追求别人看的怎么怎么样。</p><h2 id="内容"><a href="#内容" class="headerlink" title="内容"></a>内容</h2><p>取模运算实际上时间复杂度不如↓<br><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs c++"><span class="hljs-keyword">while</span>(a&lt;b)a-=b;<br></code></pre></td></tr></table></figure></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 笔记 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 牛客 </tag>
             
         </tags>
       
