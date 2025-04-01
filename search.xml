@@ -4,6 +4,56 @@
   
     
     <entry>
+      <title>数电笔记1</title>
+      <link href="/2025/01/22/%E7%AC%94%E8%AE%B0/%E6%95%B0%E7%94%B5/%E6%95%B0%E7%94%B5%E7%AC%94%E8%AE%B01/"/>
+      <url>/2025/01/22/%E7%AC%94%E8%AE%B0/%E6%95%B0%E7%94%B5/%E6%95%B0%E7%94%B5%E7%AC%94%E8%AE%B01/</url>
+      
+        <content type="html"><![CDATA[<h2 id="信息与编码"><a href="#信息与编码" class="headerlink" title="信息与编码"></a>信息与编码</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> 笔记 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 数电 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>为社会添砖java1</title>
+      <link href="/2025/01/19/%E7%AC%94%E8%AE%B0/java/%E9%BB%91%E9%A9%ACjava1/"/>
+      <url>/2025/01/19/%E7%AC%94%E8%AE%B0/java/%E9%BB%91%E9%A9%ACjava1/</url>
+      
+        <content type="html"><![CDATA[<h2 id="前置"><a href="#前置" class="headerlink" title="前置"></a>前置</h2><h3 id="cmd学习"><a href="#cmd学习" class="headerlink" title="cmd学习"></a>cmd学习</h3><p>使用盘符加冒号可以直接切换<br>例如E:<br>就能直接切换到E盘<br>然后再cd code\works...<br><img src="https://pic1.imgdb.cn/item/678cc3c9d0e0a243d4f5a49f.png" alt="">  </p><p>dir能展示所有文件夹</p><h3 id="环境变量配置"><a href="#环境变量配置" class="headerlink" title="环境变量配置"></a>环境变量配置</h3><p>在列表中的顺序决定了搜索的顺序</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 笔记 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> java </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>20250116训练题解</title>
       <link href="/2025/01/16/%E9%A2%98%E8%A7%A3/20250116%E8%AE%AD%E7%BB%83%E9%A2%98%E8%A7%A3/"/>
       <url>/2025/01/16/%E9%A2%98%E8%A7%A3/20250116%E8%AE%AD%E7%BB%83%E9%A2%98%E8%A7%A3/</url>
@@ -62,31 +112,6 @@
     
     
     <entry>
-      <title>牛客寒假笔记1</title>
-      <link href="/2025/01/11/%E7%AC%94%E8%AE%B0/%E7%89%9B%E5%AE%A2%E5%AF%92%E5%81%87%E7%AC%94%E8%AE%B01/"/>
-      <url>/2025/01/11/%E7%AC%94%E8%AE%B0/%E7%89%9B%E5%AE%A2%E5%AF%92%E5%81%87%E7%AC%94%E8%AE%B01/</url>
-      
-        <content type="html"><![CDATA[<h2 id="前情提要"><a href="#前情提要" class="headerlink" title="前情提要"></a>前情提要</h2><p>长时间没有训练加学习，完全生疏，从头开始过一遍入门班</p><h2 id="学习要求"><a href="#学习要求" class="headerlink" title="学习要求"></a>学习要求</h2><h3 id="1-学会写题解"><a href="#1-学会写题解" class="headerlink" title="1.学会写题解"></a>1.学会写题解</h3><p>题解的要求？  </p><ul><li>英文题面，概括题目意思</li><li>题目的主要思路和易错点</li><li>为什么没有写对，回忆一下到底是哪里写错了  </li></ul><p>写点小故事也未尝不可<br>不要求长，要求能看懂</p><h3 id="2-不建议找别人来调自己的代码，锻练不了自己的调试能力"><a href="#2-不建议找别人来调自己的代码，锻练不了自己的调试能力" class="headerlink" title="2.不建议找别人来调自己的代码，锻练不了自己的调试能力"></a>2.不建议找别人来调自己的代码，锻练不了自己的调试能力</h3><p><strong><em>请独立完成编码</em></strong> 不要左边有一个代码，右边对着敲，没有任何用，把窗口关掉，自己独立的写出来，题目是刷不完的，不要拿题量感动自己<br>如果看过别人的代码，请<strong>隔一段时间</strong>再去写，不然细节会想不明白的  </p><h3 id="3-知其然也要知其所以然，请搞懂为什么这么写"><a href="#3-知其然也要知其所以然，请搞懂为什么这么写" class="headerlink" title="3.知其然也要知其所以然，请搞懂为什么这么写"></a>3.知其然也要知其所以然，请搞懂为什么这么写</h3><p>不能只记忆模板，多问为什么<br>自己归纳、发散。<br>别人告诉你的和你自己理解出来的是不一样的</p><h3 id="4-记得复习"><a href="#4-记得复习" class="headerlink" title="4.记得复习"></a>4.记得复习</h3><p>写题解是为了自己复习的。不要追求别人看的怎么怎么样。</p><h2 id="内容"><a href="#内容" class="headerlink" title="内容"></a>内容</h2><p>取模运算实际上时间复杂度不如↓<br><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs c++"><span class="hljs-keyword">while</span>(a&lt;b)a-=b;<br></code></pre></td></tr></table></figure></p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 笔记 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 牛客 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>2025年1月11日</title>
       <link href="/2025/01/11/%E6%97%A5%E8%AE%B0/2025-1-11/"/>
       <url>/2025/01/11/%E6%97%A5%E8%AE%B0/2025-1-11/</url>
@@ -104,6 +129,31 @@
         <tags>
             
             <tag> 日记 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>牛客寒假笔记1</title>
+      <link href="/2025/01/11/%E7%AC%94%E8%AE%B0/%E7%89%9B%E5%AE%A2/%E7%89%9B%E5%AE%A2%E5%AF%92%E5%81%87%E7%AC%94%E8%AE%B01/"/>
+      <url>/2025/01/11/%E7%AC%94%E8%AE%B0/%E7%89%9B%E5%AE%A2/%E7%89%9B%E5%AE%A2%E5%AF%92%E5%81%87%E7%AC%94%E8%AE%B01/</url>
+      
+        <content type="html"><![CDATA[<h2 id="前情提要"><a href="#前情提要" class="headerlink" title="前情提要"></a>前情提要</h2><p>长时间没有训练加学习，完全生疏，从头开始过一遍入门班</p><h2 id="学习要求"><a href="#学习要求" class="headerlink" title="学习要求"></a>学习要求</h2><h3 id="1-学会写题解"><a href="#1-学会写题解" class="headerlink" title="1.学会写题解"></a>1.学会写题解</h3><p>题解的要求？  </p><ul><li>英文题面，概括题目意思</li><li>题目的主要思路和易错点</li><li>为什么没有写对，回忆一下到底是哪里写错了  </li></ul><p>写点小故事也未尝不可<br>不要求长，要求能看懂</p><h3 id="2-不建议找别人来调自己的代码，锻练不了自己的调试能力"><a href="#2-不建议找别人来调自己的代码，锻练不了自己的调试能力" class="headerlink" title="2.不建议找别人来调自己的代码，锻练不了自己的调试能力"></a>2.不建议找别人来调自己的代码，锻练不了自己的调试能力</h3><p><strong><em>请独立完成编码</em></strong> 不要左边有一个代码，右边对着敲，没有任何用，把窗口关掉，自己独立的写出来，题目是刷不完的，不要拿题量感动自己<br>如果看过别人的代码，请<strong>隔一段时间</strong>再去写，不然细节会想不明白的  </p><h3 id="3-知其然也要知其所以然，请搞懂为什么这么写"><a href="#3-知其然也要知其所以然，请搞懂为什么这么写" class="headerlink" title="3.知其然也要知其所以然，请搞懂为什么这么写"></a>3.知其然也要知其所以然，请搞懂为什么这么写</h3><p>不能只记忆模板，多问为什么<br>自己归纳、发散。<br>别人告诉你的和你自己理解出来的是不一样的</p><h3 id="4-记得复习"><a href="#4-记得复习" class="headerlink" title="4.记得复习"></a>4.记得复习</h3><p>写题解是为了自己复习的。不要追求别人看的怎么怎么样。</p><h2 id="内容"><a href="#内容" class="headerlink" title="内容"></a>内容</h2><p>取模运算实际上时间复杂度不如↓<br><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs c++"><span class="hljs-keyword">while</span>(a&lt;b)a-=b;<br></code></pre></td></tr></table></figure></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 笔记 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 牛客 </tag>
             
         </tags>
       
@@ -263,8 +313,8 @@
     
     <entry>
       <title>从学术研究到量化交易</title>
-      <link href="/2024/10/06/%E7%AC%94%E8%AE%B0/%E4%BB%8E%E5%AD%A6%E6%9C%AF%E7%A0%94%E7%A9%B6%E5%88%B0%E9%87%8F%E5%8C%96%E4%BA%A4%E6%98%93%E7%AC%94%E8%AE%B0/"/>
-      <url>/2024/10/06/%E7%AC%94%E8%AE%B0/%E4%BB%8E%E5%AD%A6%E6%9C%AF%E7%A0%94%E7%A9%B6%E5%88%B0%E9%87%8F%E5%8C%96%E4%BA%A4%E6%98%93%E7%AC%94%E8%AE%B0/</url>
+      <link href="/2024/10/06/%E7%AC%94%E8%AE%B0/%E9%87%8F%E5%8C%96/%E4%BB%8E%E5%AD%A6%E6%9C%AF%E7%A0%94%E7%A9%B6%E5%88%B0%E9%87%8F%E5%8C%96%E4%BA%A4%E6%98%93%E7%AC%94%E8%AE%B0/"/>
+      <url>/2024/10/06/%E7%AC%94%E8%AE%B0/%E9%87%8F%E5%8C%96/%E4%BB%8E%E5%AD%A6%E6%9C%AF%E7%A0%94%E7%A9%B6%E5%88%B0%E9%87%8F%E5%8C%96%E4%BA%A4%E6%98%93%E7%AC%94%E8%AE%B0/</url>
       
         <content type="html"><![CDATA[<p>一般的研究流程<br>找到一个深入了解也感兴趣的方向<br>阅读大量文献<br>从文献发现可以改进的地方<br>做实验、做改进、整理成论文<br>论文发表</p><p>了解一个领域：<br>1.从综述或者比较新的经典文章开始了解<br>2.再从综述或经典文章的引用文献开始了解<br>3.阅读顺序：摘要大于介绍 关注作者的理解、缺陷、改进点<br>4.不要用自动翻译</p><p>杂谈：关注对应领域牛人的推特/知乎<br>关注近期会议接受情况，了解较好文章的分布，尝试找出共同方向<br>不要看非专业的资讯源。对于以学术研究为方向，不要过度关注工业应用</p><p>做细致的研究<br>一般提出某个优化后：<br>比较在不同数据集、不同范围、不同参数下，模型是否有统一的优势<br>思考优势是如何产生的？是否有理论支持？是否有潜在的劣势？<br>研究启示和如何进一步改进<br>追求客观、严谨和准确，文字图表简明清晰</p><p>做最好的研究<br>趋势：质量大于数量，文章宁缺毋滥，不要发水刊 ccf-c及以下<br>ccf分类是主要标准<br>永远保持学术品位和学术道德<br>好文章一般在目录的A类的非国内期刊/会议。目录存在缺失和分类，例如iclr<br>没有想法可以从kaggle做起</p><p>兴趣经常是假的，深入了解后可能会不喜欢了<br>对齐自己的认知和前沿的认知，了解该方向不完善的地方<br>广交在领域内有较好产出的朋友，结合不同方向的人的看法</p><p>不要陷入热点<br>热点切换的很快<br>热点的机会的窗口期很短，从发现到发表只有3-6个月<br>个人的研究会失去连续性，容易迷失方向</p><p>人多的方向也别选，特别是大模型、视觉、自然语言<br>大方向都有工程化的趋势</p><p>如果要以科研为职业<br>特点：赢家通吃，成就感强<br>申请phd主要评估：文章质量、关系（从属实验室）、文章数量<br>国内学术界科研：产出、山头、帽子<br>国外：性别、产出、关系</p><p>一作、高质量、推荐信</p><p>逐渐互联网化<br>好处：有钱有闲，不容易被开</p><p>坏处：坑很多，很多职位都叫quant，但是大部分是牛马<br>门槛很高：行业不需要太多人</p><p>本质你要拿出证据说明你能给研究组干活</p><p>本科生想做学术要进组<br>也可以从好的学术社区做起，微软科技，cvpr<br>访问学生的要求平均是发一篇A</p><p>访问学生：<br>不需要看计划，直接发邮件，说明有多少能力，能打多少杂，海投</p><p>openreview.net</p>]]></content>
       
